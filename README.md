@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0216,50:311B92,100:0D0216&height=140&section=header&text=Adeel%20Hussain&fontSize=45&fontColor=ffffff&fontAlignY=32&animation=fadeInOut" width="100%"/>
-<h3 align="center">"We run in the background... to control the main thread."</h3>
+<h3 align="center">"A silent system governed by an Atomix core."</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS%20Student-Dawood%20University-4A148C?style=for-the-badge" alt="CS Student" />
